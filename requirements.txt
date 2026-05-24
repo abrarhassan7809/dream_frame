@@ -1,0 +1,15 @@
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# agr GPU nhi ha to ye command run kro
+# pip install --upgrade diffusers transformers accelerate optimum[intel]
+diffusers
+transformers
+accelerate
+gradio
+openvino
+streamlit
+
+# ===== #
+duckduckgo-search
+langchain
+langchain-community
+chromadb

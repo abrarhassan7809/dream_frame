@@ -1,0 +1,9 @@
+.venv
+venv
+.idea
+__pycache__
+test_files
+outputs
+models
+alpha_version_0-2/.env
+knowledge.json
